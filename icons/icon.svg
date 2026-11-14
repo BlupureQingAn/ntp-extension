@@ -2,5 +2,5 @@
   <!-- 圆角白底 -->
   <rect width="128" height="128" rx="28" fill="#ffffff"/>
   <!-- 克莱因蓝圆环（国际克莱因蓝 #002FA7，平涂无渐变） -->
-  <circle cx="64" cy="64" r="42.5" fill="none" stroke="#002FA7" stroke-width="17"/>
+  <circle cx="64" cy="64" r="37" fill="none" stroke="#002FA7" stroke-width="22"/>
 </svg>
